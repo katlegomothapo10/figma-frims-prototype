@@ -1,1 +1,11 @@
-# figma-frims-prototype
+
+  # Complete current task
+
+  This is a code bundle for Complete current task. The original project is available at https://www.figma.com/design/p3dxrV28iQ6eMnBUXmDmcw/Complete-current-task.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
